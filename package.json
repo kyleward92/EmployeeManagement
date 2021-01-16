@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleward92/EmployeeManagement.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyleward92/EmployeeManagement/issues"
+  },
+  "homepage": "https://github.com/kyleward92/EmployeeManagement#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
 }
