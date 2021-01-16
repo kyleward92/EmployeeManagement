@@ -2,7 +2,8 @@
 
 The git repo is located here [github](https://github.com/kyleward92/EmployeeManagement.git)
 
-https://drive.google.com/file/d/1T21stP1BDJeQqiI6TBXsyvv8oh1Pp9wX/view
+
+![EmployeeManagement](https://user-images.githubusercontent.com/70237338/104797993-d6779380-5790-11eb-8313-b4eba7ab4551.PNG)
 
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -21,13 +22,17 @@ A database application to track employee information. The application allows a u
 Copy files from github and run npm install to get the proper modules. *Run the employee.js file from terminal.
     
 ## How the Project Should Be Used
-Keep track of the companies many employees, roles, departments, and salary
+Keep track of the many employees, roles, departments, and salary
+
     
 ## License 
 This application is unlicensed
     
 ## Contribution Guidelines
 please see contact questions.
+
+## Overview Link
+https://drive.google.com/file/d/1T21stP1BDJeQqiI6TBXsyvv8oh1Pp9wX/view
     
 <!-- ## Test Instructions
 Download and run node index.js -->
